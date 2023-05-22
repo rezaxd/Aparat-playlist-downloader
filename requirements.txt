@@ -1,4 +1,4 @@
-requests==2.21.0
+requests==2.31.0
 beautifulsoup4==4.8.2
 inquirer==2.6.3
 clint==0.5.1
